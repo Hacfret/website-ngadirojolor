@@ -1049,7 +1049,7 @@ section,
 }
 
 .constructions .card-item .card-bg img {
-  position: absolute;
+  /* position: absolute; */
   inset: 0;
   display: block;
   width: 100%;
