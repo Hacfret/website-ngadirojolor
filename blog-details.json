@@ -1,13 +1,33 @@
 [
   {
-    "id": 1,
+    "id": 5,
+    "title": "Pendampingan Pembuatan QRIS untuk UMKM Ngadirojo Lor: Langkah Menuju Ekonomi Digital",
+    "date": "15 Agustus 2024",
+    "author": "Admin",
+    "category": "Teknologi",
+    "image": "assets/img/blog/blog-5.jpg",
+    "content": [
+      "(Wonogiri 15/08/2024) - Pada Sabtu, 3 Agustus 2024, Ahmad Rizqy Yourin, mahasiswa Teknik Komputer Universitas Diponegoro yang sedang menjalani Kuliah Kerja Nyata (KKN) TIM II 2023/2024 di Desa Ngadirojo Lor, Kecamatan Ngadirojo, Kabupaten Wonogiri, melakukan kunjungan lapangan untuk menemui kelompok ibu-ibu UMKM di Desa Ngadirojo Lor dan perwakilan dari Disporapar. Kunjungan ini dilakukan setelah sebelumnya dilakukan survei mengenai jumlah UMKM di Desa Ngadirojo Lor yang belum menerapkan digitalisasi.",
+      "Digitalisasi menjadi hal penting bagi para pelaku UMKM untuk meningkatkan daya tarik masyarakat yang lebih luas. Salah satu langkah digitalisasi yang akan dilakukan oleh Yourin adalah pembuatan e-wallet dan QRIS untuk memudahkan transaksi digital antara pembeli dan penjual.",
+      "Sebelumnya, TIM II KKN UNDIP bertemu dengan perwakilan Disporapar, yaitu Mbak Lutfi, yang memberikan informasi mengenai kondisi UMKM di Desa Ngadirojo Lor. Berdasarkan informasi tersebut, Yourin mengambil inisiatif untuk memulai digitalisasi dari hal yang sederhana, yaitu pembuatan e-wallet dan QRIS. Menurut Yourin, langkah ini dapat meningkatkan daya tarik jual beli, khususnya bagi pendatang yang tidak membawa uang tunai, sehingga pembayaran dapat dilakukan secara digital. Proses transfer dan penarikan uang juga akan lebih mudah dengan adanya e-wallet ini.",
+      "Yourin memilih DANA sebagai e-wallet yang akan digunakan. Alasan pemilihan DANA adalah karena tampilan antarmuka yang user-friendly, kemudahan dalam pembuatan akun bisnis, dan kecepatan dalam pembuatan QRIS untuk para pelaku usaha. Program ini dilaksanakan saat para ibu-ibu UMKM Desa Ngadirojo Lor bertemu dengan perwakilan dari Disporapar, sehingga interaksi langsung dapat terjadi dengan lebih efektif.",
+      "“Biasanya kami memang datang ke ATM bank terlebih dahulu baru melakukan transfer,” ucap salah satu ibu pelaku UMKM.",
+      "Dalam kesempatan tersebut, Yourin memberikan edukasi dan pemaparan mengenai cara penggunaan e-wallet, serta menjelaskan langkah-langkah pembuatan QRIS melalui aplikasi DANA.",
+      "Diharapkan para pelaku UMKM di Desa Ngadirojo Lor dapat dimudahkan dalam urusan transfer maupun transaksi digital. Semoga daya tarik pembelian juga meningkat,” ujar Yourin.",
+      "Reporter: Ahmad Rizqy Yourin"
+    ],
+    "imageInside": "assets/img/blog/blog-inside-post-5.jpg",
+    "tags": ["Teknologi", "UMKM", "Digitalisasi", "Dompet Digital"]
+  },
+  {
+    "id": 4,
     "title": "Website Profil Desa Ngadirojo Lor: Pintu Gerbang Informasi dan Layanan Desa",
     "date": "15 Agustus 2024",
     "author": "Admin",
     "category": "Teknologi",
-    "image": "assets/img/blog/blog-1.jpg",
+    "image": "assets/img/blog/blog-5.jpg",
     "content": [
-      "(Wonogiri 16/08/2024) - Pada Sabtu, 30 Juli 2024, Ahmad Rizqy Yourin, mahasiswa Teknik Komputer Universitas Diponegoro yang tengah menjalani Kuliah Kerja Nyata (KKN) TIM II 2023/2024 di Desa Ngadirojo Lor, Kecamatan Ngadirojo, Kabupaten Wonogiri, melakukan kunjungan lapangan untuk meninjau kondisi website resmi desa. Kunjungan tersebut dilakukan untuk memahami sejauh mana website desa dapat berfungsi sebagai sumber informasi dan layanan bagi masyarakat setempat maupun pengguna internet yang mencari informasi tentang Desa Ngadirojo Lor.",
+      "(Wonogiri 15/08/2024) - Pada Selasa, 30 Juli 2024, Ahmad Rizqy Yourin, mahasiswa Teknik Komputer Universitas Diponegoro yang tengah menjalani Kuliah Kerja Nyata (KKN) TIM II 2023/2024 di Desa Ngadirojo Lor, Kecamatan Ngadirojo, Kabupaten Wonogiri, melakukan kunjungan lapangan untuk meninjau kondisi website resmi desa. Kunjungan tersebut dilakukan untuk memahami sejauh mana website desa dapat berfungsi sebagai sumber informasi dan layanan bagi masyarakat setempat maupun pengguna internet yang mencari informasi tentang Desa Ngadirojo Lor.",
       "Hasil dari peninjauan ini menunjukkan bahwa website resmi desa yang seharusnya menjadi pintu utama informasi ternyata tidak memenuhi harapan. Website tersebut tidak dapat diakses melalui perangkat mobile karena tidak adanya integrasi dan kompatibilitas yang memadai antara versi desktop dan mobile. Kondisi ini menjadi masalah serius karena banyak masyarakat yang lebih sering mengakses informasi melalui smartphone mereka daripada menggunakan komputer desktop. Keterbatasan akses ini tentu saja menghambat penyebaran informasi penting terkait profil desa, layanan publik, serta potensi desa kepada masyarakat yang lebih luas.",
       "Melihat kondisi ini, Ahmad Rizqy Yourin segera melakukan analisis mendalam untuk mencari solusi yang tepat. Berdasarkan latar belakangnya di bidang Teknik Komputer, Yourin menyadari bahwa solusi paling efektif adalah dengan mengembangkan sebuah website baru yang responsif dan ramah pengguna (user-friendly). Website ini diharapkan dapat diakses dengan baik dari berbagai perangkat, baik itu komputer desktop maupun smartphone, sehingga seluruh masyarakat, baik yang tinggal di desa maupun di luar desa, dapat dengan mudah mengakses informasi yang dibutuhkan.",
       "Yourin kemudian menyusun rencana untuk mengembangkan website desa yang baru. Proses pengembangan ini tidak hanya mencakup aspek teknis seperti desain dan coding, tetapi juga melibatkan edukasi dan pendampingan kepada perangkat desa agar mereka juga dapat terlibat aktif dalam pemeliharaan dan pengelolaan website tersebut. Dalam hal ini, Yourin menjalin kerja sama dengan Agus Tri Wiyanto, S.Kom, yang menjabat sebagai KASI Pelayanan di Desa Ngadirojo Lor. “Ya, memang sudah ada website desa dari Menkominfo, namun tidak dapat diakses dari smartphone,” ujar Agus ketika diwawancarai. Hal ini menegaskan pentingnya inisiatif yang dilakukan oleh Yourin.",
@@ -20,12 +40,12 @@
     "tags": ["Teknologi", "Website", "Informasi", "Pelayanan"]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "REMBUK STUNTING DALAM RANGKA PENCEGAHAN DAN PENURUNAN STUNTING TINGKAT DESA UNTUK PENYUSUNAN RKPDES TAHUN 2025 DESA NGADIROJO LOR",
     "date": "13 Agustus 2024",
     "author": "Admin",
     "category": "Layanan",
-    "image": "assets/img/blog/blog-2.jpg",
+    "image": "assets/img/blog/blog-3.jpg",
     "content": [
       "Wonogiri (05/08/2024) Pada tanggal 05 Agustus 2024 yang lalu di Pendopo Balai Desa Ngadirojo Lor diadakan Kegiatan Rembuk Stunting Dalam Rangka  Pencegahan dan Penurunan Stunting Tingkat Desa (untuk penyusunan RKPDes Tahun 2025). Dalam acara tersebut mengundang Narasumber dari Puskesmas, Kecamatan, BKKBN, TA Dinas PMD, Kemenag, dan Koramil, untuk peserta semua Perangkat Desa, BPD, TP PKK, Kades Posyandu, dan tim KKN Undip dan Unisri. Dalam Rembuk Stunting menyepakati beberapa usulan dan mengusulkan kembali usulan tahun lalu yang belum terealisasi selanjutnya usulan tersebut akan dimasukkan dalam RKPDes tahun 2025,"
     ],
@@ -33,12 +53,12 @@
     "tags": ["Layanan", "Acara", "Desa", "Pelayanan"]
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Rapat Koordinasi Persiapan kegiatan dalam rangka memperingati HUT RI ke 79 tahun 2024",
     "date": "19 Juli 2024",
     "author": "Admin",
     "category": "Layanan",
-    "image": "assets/img/blog/blog-3.jpg",
+    "image": "assets/img/blog/blog-2.jpg",
     "content": [
       "Wonogiri (18/07/2024) - Pada hari Kamis malam tanggal 18 Juli 2024 di balai Desa Ngadirojo Lor, diadakan Rakor Persiapan kegiatan dalam rangka memperingati HUT RI ke 79 tahun 2024, yang dipimpin Bpk Kepala Desa Ngadirojo Lor, Ibu Sekdes dan Ketua Karang Taruna Desa,, dihadiri Perangkat Desa, Pengurus Karang Taruna Desa, Ketua Sub Karang Taruna (Dusun) , Koordinator Bidang Olahraga Dusun se-Desa Ngadirojo Lor dan tim KKN Undip 2024. Membahas kegiatan apa yang akan diadaka dalam rangka memperingati HUT RI ke 79 tahun 2024.. Dan memutuskan akan mengadakan turnamen Bola Voly dan Sepakbola antar Dusun. Untuk kepanitiaan dan teknis akan dibahas pertemuan kedepan.."
     ],
@@ -46,12 +66,12 @@
     "tags": ["Layanan", "Acara", "Desa", "Pelayanan"]
   },
   {
-    "id": 4,
+    "id": 1,
     "title": "Pertemuan Rutin Tim Penggerak PKK dan Kader Posyandu Desa Ngadirojo Lor 2024",
     "date": "19 Juli 2024",
     "author": "Admin",
     "category": "Layanan",
-    "image": "assets/img/blog/blog-4.jpeg",
+    "image": "assets/img/blog/blog-1.jpeg",
     "content": [
       "Wonogiri (17/07/2024) - Pertemuan Rutin Tim Penggerak PKK dan Kader Posyandu Desa Ngadirojo Lor 2024 pada Rabu, 17 Juli 2024 di Balai Desa Ngadirojo Lor.. Membahas agenda Rutin Tim Penggerak PKK dan Kader Posyandu. Dan isi materi kesehatan dan imunisasi dari Tim Puskesmas Ngadirojo dan KKN Undip 2024"
     ],
